@@ -1,0 +1,6 @@
+[submodule "nlvcorpus"]
+	path = nlvcorpus
+	url = https://github.com/nlvcorpus/nlvcorpus.github.io
+[submodule "DeViz"]
+	path = DeViz
+	url = git@github.com:pckennethma/DeViz.git
